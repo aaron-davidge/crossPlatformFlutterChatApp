@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1053817876364-7u8kdbcskhmf5asc459r4rkv1mjbgill.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1053817876364-7u8kdbcskhmf5asc459r4rkv1mjbgill</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDfqjRdC1Y-JY6eWuwFnssxC6FQKf3LLuc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1053817876364</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.aarondavidge.flashChat</string>
+	<key>PROJECT_ID</key>
+	<string>chess-chat-d31c4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chess-chat-d31c4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1053817876364:ios:b7e6ca69e47f33375a30a9</string>
+	<key>DATABASE_URL</key>
+	<string>https://chess-chat-d31c4.firebaseio.com</string>
+</dict>
+</plist>

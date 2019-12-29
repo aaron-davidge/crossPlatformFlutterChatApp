@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053817876364",
+    "firebase_url": "https://chess-chat-d31c4.firebaseio.com",
+    "project_id": "chess-chat-d31c4",
+    "storage_bucket": "chess-chat-d31c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053817876364:android:4f2fa534f30376205a30a9",
+        "android_client_info": {
+          "package_name": "com.aarondavidge.chess_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053817876364-c3r88giduc6svk0irh9m7tjh9gvu23g8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwrrxq10LyyyNqOWpOPTl7NCFWqO4o51w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053817876364-c3r88giduc6svk0irh9m7tjh9gvu23g8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1053817876364-7u8kdbcskhmf5asc459r4rkv1mjbgill.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aarondavidge.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
